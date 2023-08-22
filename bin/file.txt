@@ -1,0 +1,1 @@
+ini adalah file yang ada pada branch featureA. tujuan dibuat file ini agar dapat mensimulasikan terjadinya conflic ketika melakukan merge pada dua branch.
