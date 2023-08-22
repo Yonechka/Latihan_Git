@@ -1,0 +1,1 @@
+Ini adalah file text yang berada pada branch featureB. tujuan dibuatnya file ini tidaklah beda pada file text yang berada di branch feautreA, yaitu untuk melakukan simulasi terjadinya conflic pada file ini saat melakukan merge kedua branch.
